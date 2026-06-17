@@ -1,0 +1,6 @@
+{
+  "name": "Bloom: Focus & Resilience Companion",
+  "description": "A supportive self-development compass designed to help demotivated individuals rebuild focus, incremental habits, and emotional resilience through CBT-infused journaling and affirmations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
